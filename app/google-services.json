@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526461543916",
+    "project_id": "uachat-9628f",
+    "storage_bucket": "uachat-9628f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526461543916:android:5acaa97516582e8e20ccc9",
+        "android_client_info": {
+          "package_name": "com.example.chatua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8rxlGQiw3ARF75kdHlvJQ4b0TbRibXtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
